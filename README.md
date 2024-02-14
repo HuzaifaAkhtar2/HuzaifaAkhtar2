@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Huzaifa Akhtar</h1>
+<h1 align="center">Hi, I'm Huzaifa Akhtar, A Web Developer</h1>
 <h3 align="center">I have a passion to become a full-stack developer, I am from from Pakistan and I am 14 years old teenager</h3>
 <img src="https://i.pinimg.com/originals/f4/7f/d8/f47fd896add554744b4114d964b61b41.gif" alt="img" align="right" width="400px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huzaifaakhtar2&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifaakhtar2" /> </p>
 
 - 🔭 I’m currently working on **A Large-Scale Website Project**
 
-- 🌱 I’m currently learning **JavaScript, Responsive CSS and Front-end Libraries**
+- 🌱 I’m currently learning **JavaScript, Responsive CSS and Front-end, Back-end Libraries**
 
 - 👨‍💻 All of my projects are available at [https://codepen.io/HuzaifaAkhtar2](https://codepen.io/HuzaifaAkhtar2)
 
