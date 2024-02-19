@@ -17,7 +17,8 @@
 <p align="left">
 <a href="https://codepen.io/huzaifaakhtar2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="huzaifaakhtar2" height="30" width="40" /></a>
 <a href="https://dev.to/huzaifaakhtar2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="huzaifaakhtar2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/huzaifa-akhtar2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huzaifa akhtar2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/huzaifa akhtar2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huzaifa akhtar2" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/huzaifa-akhtar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="huzaifa-akhtar" height="30" width="40" /></a>
 <a href="https://instagram.com/iamhuzaifa_akhtar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamhuzaifa_akhtar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/huzaifaakhtar2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="huzaifaakhtar2" height="30" width="40" /></a>
 </p>
