@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HuzaifaAkhtar2.HuzaifaAkhtar2" />
 <h1 align="center">Hi 👋, I'm Muhammad Huzaifa</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img src="https://i.pinimg.com/originals/f4/7f/d8/f47fd896add554744b4114d964b61b41.gif" alt="img" align="right" width="400px">
