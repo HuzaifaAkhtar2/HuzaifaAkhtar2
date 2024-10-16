@@ -33,7 +33,7 @@ In addition to web development, I’m also experimenting with AI, combining it w
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,nodejs,javascript,nextjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,github,git,figma,nodejs,nextjs" />
 </div>
 
 <br/>
