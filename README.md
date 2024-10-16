@@ -52,11 +52,11 @@ In addition to web development, I’m also experimenting with AI, combining it w
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifaakhtar2&show_icons=true&locale=en&layout=compact" alt="huzaifaakhtar2" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifaakhtar2&show_icons=true&locale=en" alt="huzaifaakhtar2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifaakhtar2&" alt="huzaifaakhtar2" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifaakhtar2&show_icons=true&locale=en&layout=compact" alt="huzaifaakhtar2" /></p>
 </div>
 
 <br/><br/>
