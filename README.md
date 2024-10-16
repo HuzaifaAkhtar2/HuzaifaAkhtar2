@@ -7,24 +7,24 @@
 <h3 align="center">A 15 year old passionate software developer from Pakistan 🇵🇰</h3>
 
 <br/>
-As a **15-year-old web developer**, I have built a solid foundation in front-end development, particularly with **HTML and CSS**. I’m skilled at creating **responsive, visually appealing websites** ✨ and writing **clean, efficient code**. 💻 I enjoy working with modern CSS techniques like **Flexbox** and **Grid** to design layouts that are both **functional** and **aesthetically pleasing**. 🖌️ My goal is always to ensure that my sites are **mobile-friendly** 📱 and work seamlessly across different browsers.
+As a 15-year-old web developer, I have built a solid foundation in front-end development, particularly with HTML and CSS. I’m skilled at creating responsive, visually appealing websites ✨ and writing clean, efficient code. 💻 I enjoy working with modern CSS techniques like Flexbox and Grid to design layouts that are both functional and aesthetically pleasing. 🖌️ My goal is always to ensure that my sites are mobile-friendly 📱 and work seamlessly across different browsers.
 
-Currently, I’m diving into **JavaScript** as the next step in my web development journey. 🚀 I’m learning the **core concepts** like **variables**, **functions**, and **control structures**, as well as how to make websites more interactive with **DOM manipulation**. 🔧 I’m also exploring **event handling** and working with **asynchronous programming** using **promises** and **async/await** to make my sites more dynamic and responsive. 💡
+Currently, I’m diving into JavaScript as the next step in my web development journey. 🚀 I’m learning the core concepts like variables, functions, and control structures, as well as how to make websites more interactive with DOM manipulation. 🔧 I’m also exploring event handling and working with asynchronous programming using promises and async/await to make my sites more dynamic and responsive. 💡
 
-In addition to web development, I’m also experimenting with **AI**, combining it with my web development skills to create more innovative projects. 🤖 When I’m not studying, I love working on **personal projects** to apply what I’ve learned. 🎨 It’s a great way for me to test new ideas and improve my skills. I enjoy building custom websites, adding **interactive UI elements** ⚡ and improving the **user experience** with **smooth animations** and transitions. 🌟 These projects, especially those that blend **AI and web development**, help me grow as a developer and keep my skills sharp. 👨‍💻
+In addition to web development, I’m also experimenting with AI, combining it with my web development skills to create more innovative projects. 🤖 When I’m not studying, I love working on personal projects to apply what I’ve learned. 🎨 It’s a great way for me to test new ideas and improve my skills. I enjoy building custom websites, adding interactive UI elements ⚡ and improving the user experience with smooth animations and transitions. 🌟 These projects, especially those that blend AI and web development, help me grow as a developer and keep my skills sharp. 👨‍💻
 <div align="center">
  
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:huzaifaakh@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://linkedin.com/in/huzaifaakhtar2" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://github.com/HuzaifaAkhtar2" target="_blank">
+     <img src="https://img.shields.io/badge/Github-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
