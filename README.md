@@ -4,20 +4,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Huzaifa+Akhtar!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A 15 year old passionate software developer from Pakistan 🇵🇰</h3>
 
 <br/>
+As a **15-year-old web developer**, I have built a solid foundation in front-end development, particularly with **HTML and CSS**. I’m skilled at creating **responsive, visually appealing websites** ✨ and writing **clean, efficient code**. 💻 I enjoy working with modern CSS techniques like **Flexbox** and **Grid** to design layouts that are both **functional** and **aesthetically pleasing**. 🖌️ My goal is always to ensure that my sites are **mobile-friendly** 📱 and work seamlessly across different browsers.
 
+Currently, I’m diving into **JavaScript** as the next step in my web development journey. 🚀 I’m learning the **core concepts** like **variables**, **functions**, and **control structures**, as well as how to make websites more interactive with **DOM manipulation**. 🔧 I’m also exploring **event handling** and working with **asynchronous programming** using **promises** and **async/await** to make my sites more dynamic and responsive. 💡
+
+In addition to web development, I’m also experimenting with **AI**, combining it with my web development skills to create more innovative projects. 🤖 When I’m not studying, I love working on **personal projects** to apply what I’ve learned. 🎨 It’s a great way for me to test new ideas and improve my skills. I enjoy building custom websites, adding **interactive UI elements** ⚡ and improving the **user experience** with **smooth animations** and transitions. 🌟 These projects, especially those that blend **AI and web development**, help me grow as a developer and keep my skills sharp. 👨‍💻
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
  </div>
  
 <div align="center"> 
