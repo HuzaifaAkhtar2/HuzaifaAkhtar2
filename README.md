@@ -1,3 +1,4 @@
+<img align="center" src="Banner.jpg" />
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HuzaifaAkhtar2.HuzaifaAkhtar2" />
 
 <h1 align="center">
@@ -7,11 +8,11 @@
 <h3 align="center">A 15 year old passionate software developer from Pakistan 🇵🇰</h3>
 
 <br/>
-As a 15-year-old web developer, I have built a solid foundation in front-end development, particularly with HTML and CSS. I’m skilled at creating responsive, visually appealing websites ✨ and writing clean, efficient code. 💻 I enjoy working with modern CSS techniques like Flexbox and Grid to design layouts that are both functional and aesthetically pleasing. 🖌️ My goal is always to ensure that my sites are mobile-friendly 📱 and work seamlessly across different browsers.
+<p align="justify">As a 15-year-old web developer, I have built a solid foundation in front-end development, particularly with HTML and CSS. I’m skilled at creating responsive, visually appealing websites ✨ and writing clean, efficient code. 💻 I enjoy working with modern CSS techniques like Flexbox and Grid to design layouts that are both functional and aesthetically pleasing. 🖌️ My goal is always to ensure that my sites are mobile-friendly 📱 and work seamlessly across different browsers.</p>
 
-Currently, I’m diving into JavaScript as the next step in my web development journey. 🚀 I’m learning the core concepts like variables, functions, and control structures, as well as how to make websites more interactive with DOM manipulation. 🔧 I’m also exploring event handling and working with asynchronous programming using promises and async/await to make my sites more dynamic and responsive. 💡
+<p align="justify">Currently, I’m diving into JavaScript as the next step in my web development journey. 🚀 I’m learning the core concepts like variables, functions, and control structures, as well as how to make websites more interactive with DOM manipulation. 🔧 I’m also exploring event handling and working with asynchronous programming using promises and async/await to make my sites more dynamic and responsive. 💡</p>
 
-In addition to web development, I’m also experimenting with AI, combining it with my web development skills to create more innovative projects. 🤖 When I’m not studying, I love working on personal projects to apply what I’ve learned. 🎨 It’s a great way for me to test new ideas and improve my skills. I enjoy building custom websites, adding interactive UI elements ⚡ and improving the user experience with smooth animations and transitions. 🌟 These projects, especially those that blend AI and web development, help me grow as a developer and keep my skills sharp. 👨‍💻
+<p align="justify">In addition to web development, I’m also experimenting with AI, combining it with my web development skills to create more innovative projects. 🤖 When I’m not studying, I love working on personal projects to apply what I’ve learned. 🎨 It’s a great way for me to test new ideas and improve my skills. I enjoy building custom websites, adding interactive UI elements ⚡ and improving the user experience with smooth animations and transitions. 🌟 These projects, especially those that blend AI and web development, help me grow as a developer and keep my skills sharp. 👨‍💻</p>
 <div align="center">
  
  </div>
