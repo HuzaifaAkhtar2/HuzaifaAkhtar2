@@ -65,7 +65,8 @@ In addition to web development, I’m also experimenting with AI, combining it w
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href="https://www.buymeacoffee.com/huzaifaakhtar2"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="huzaifaakhtar2" /></a>
+<a href="https://ko-fi.com/huzaifaakhtar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="huzaifaakhtar" /></a>
 </div>
 
 <br/>
