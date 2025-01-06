@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Huzaifa+Akhtar!;" />
 </h1>
 
-<h3 align="center">A 15 year old passionate software developer from Pakistan 🇵🇰</h3>
+<h3 align="center">A 15 year old passionate web developer from Pakistan 🇵🇰</h3>
 
 <br/>
 <p align="justify">As a 15-year-old web developer, I have built a solid foundation in front-end development, particularly with HTML and CSS. I’m skilled at creating responsive, visually appealing websites ✨ and writing clean, efficient code. 💻 I enjoy working with modern CSS techniques like Flexbox and Grid to design layouts that are both functional and aesthetically pleasing. 🖌️ My goal is always to ensure that my sites are mobile-friendly 📱 and work seamlessly across different browsers.</p>
