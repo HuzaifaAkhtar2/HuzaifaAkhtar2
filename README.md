@@ -45,9 +45,9 @@
 <div align=center>
 <img src="https://roadmap.sh/card/wide/6771443070129741a8ecdc00?variant=dark" alt="roadmap.sh"/>
 <img src="https://streak-stats.demolab.com/?user=huzaifaakhtar2&theme=react&hide_border=true&card_width=900" alt="huzaifaakhtar2" />
-<img src="https://github-readme-stats.vercel.app/api?username=huzaifaakhtar2&show_icons=true&theme=react&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=900" alt="huzaifaakhtar2" />
+<img src="https://github-readme-stats.vercel.app/api?username=huzaifaakhtar2&show_icons=true&theme=react&hide_border=true&card_width=900" alt="huzaifaakhtar2" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifaakhtar2&theme=react&hide_border=true&card_width=900" alt="huzaifaakhtar2" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifaakhtar2&theme=react&hide_border=true" alt="huzaifaakhtar2" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifaakhtar2&theme=react&hide_border=true&radius=4.5" alt="huzaifaakhtar2" />
 </div>
 
 <br/><br/>
