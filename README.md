@@ -45,7 +45,8 @@
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=huzaifaakhtar2&show_icons=true&locale=en" alt="huzaifaakhtar2" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifaakhtar2&" alt="huzaifaakhtar2" /> <br />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifaakhtar2&show_icons=true&locale=en&layout=compact" alt="huzaifaakhtar2" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifaakhtar2&show_icons=true&locale=en&layout=compact" alt="huzaifaakhtar2" /> <br />
+<img src="https://roadmap.sh/card/wide/6771443070129741a8ecdc00?variant=light" alt="roadmap.sh"/>
 </div>
 
 <br/><br/>
