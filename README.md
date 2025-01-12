@@ -1,4 +1,4 @@
-<img align="center" src="Banner.jpg" />
+<img align="center" src="2w.png" />
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HuzaifaAkhtar2.HuzaifaAkhtar2" />
 
 <h1 align="center">
@@ -65,3 +65,5 @@
 </div>
 
 <br/>
+
+<hr />
