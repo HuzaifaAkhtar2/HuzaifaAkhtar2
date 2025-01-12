@@ -19,13 +19,16 @@
  
 <div align="center"> 
   <a href="mailto:huzaifaakh@outlook.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   <a href="https://linkedin.com/in/huzaifaakhtar2" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" target="_blank" />
   </a>
   <a href="https://github.com/HuzaifaAkhtar2" target="_blank">
-     <img src="https://img.shields.io/badge/Github-333333?style=for-the-badge&logo=github&logoColor=black" target="_blank" />
+     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github" target="_blank" />
+  </a>
+  <a href="https://huzaifa-portfolio.pages.dev/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge" target="_blank" />
   </a>
 </div>
 
