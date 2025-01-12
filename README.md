@@ -28,7 +28,10 @@
      <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github" target="_blank" />
   </a>
   <a href="https://huzaifa-portfolio.pages.dev/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge" target="_blank" />
+     <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=circle" target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/iamhuzaifa_akhtar/" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=Instagram&logoColor=FF0069" target="_blank" />
   </a>
 </div>
 
